@@ -395,11 +395,11 @@ The biggest takeaway was that even a small amount of carefully collected real-wo
 
 ## 👨‍💻 Author
 
-**Ankit Kumar**
+**Ankit **
 
 B.Tech Student  
-[Your Branch]  
-[Your College Name]
+[ECE'27]  
+[NIT JSR]
 
 **Project:** Fresh-Batch Predictor  
 **Date:** 17 November 2026
